@@ -3,7 +3,7 @@ A repository for the extended logical model of psoriatic keratinocytes
 
 # The extended Psoriatic Keratinocyte model (PsoKC 2.0)
 
-This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper 
+This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper "Patient-specific logical models replicate phenotype responses to psoriatic and anti-psoriatic stimuli". 
 
 ## How to run this notebook?
 
