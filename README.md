@@ -1,5 +1,5 @@
 # The extended Psoriatic Keratinocyte model (PsoKC 2.0)
-A repository for the extended logical model of psoriatic keratinocytes, based on the [PsoKC model by Tsirvouli et.al](https://www.sciencedirect.com/science/article/pii/S258900422101422X)
+A repository for the extended logical model of psoriatic keratinocytes, based on the [PsoKC model by Tsirvouli et al.](https://www.sciencedirect.com/science/article/pii/S258900422101422X)
 
 The model was built by Eir Aker and refined by Eirini Tsirvouli. Both contributed to its analysis. 
 
