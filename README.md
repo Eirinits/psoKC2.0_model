@@ -3,7 +3,7 @@ A repository for the extended logical model of psoriatic keratinocytes, based on
 
 The model was built by Eir Aker and refined by Eirini Tsirvouli. Both contributed to its analysis. 
 
-This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper "Patient-specific logical models replicate phenotype responses to psoriatic and anti-psoriatic stimuli". 
+This repository contains ipynb files and psoriatic keratinocyte model-related files as described in the *"Patient-specific logical models replicate phenotype responses to psoriatic and anti-psoriatic stimuli"* paper.
 
 ## How to run this notebook?
 
