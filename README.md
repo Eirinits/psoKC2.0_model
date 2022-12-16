@@ -1,13 +1,12 @@
-# PsoKC 2.0 model
-A repository for the extended logical model of psoriatic keratinocytes
-
 # The extended Psoriatic Keratinocyte model (PsoKC 2.0)
+A repository for the extended logical model of psoriatic keratinocytes, based on the [PsoKC model by Tsirvouli et.al](https://www.sciencedirect.com/science/article/pii/S258900422101422X)
+
+The model was built by Eir Aker and refined by Eirini Tsirvouli. Both contributed to its analysis. 
 
 This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper "Patient-specific logical models replicate phenotype responses to psoriatic and anti-psoriatic stimuli". 
 
 ## How to run this notebook?
 
- 
 ### With docker
 
 1. Install the [colomoto docker image](https://github.com/colomoto/colomoto-docker). 
