@@ -1,0 +1,7 @@
+"GSE";"GSM";"diagnosis";"lesional"
+"1";"GSE41745";"GSM1023434";"psoriasis";"non_lesional"
+"2";"GSE41745";"GSM1023435";"psoriasis";"non_lesional"
+"3";"GSE41745";"GSM1023436";"psoriasis";"non_lesional"
+"4";"GSE41745";"GSM1023437";"psoriasis";"lesional"
+"5";"GSE41745";"GSM1023438";"psoriasis";"lesional"
+"6";"GSE41745";"GSM1023439";"psoriasis";"lesional"
